@@ -7,18 +7,11 @@ export const introData = {
 };
 
 export const projectsData = [
-  // {
-  //   title: "Project Title",
-  //   description:
-  //     "About Paragraph 1 Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-  //   url: null, // Optional URL
-  // },
-  // {
-  //   title: "Project Title",
-  //   description:
-  //     "About Paragraph 1 Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-  //   url: null, // Optional URL
-  // },
+  {
+    title: "",
+    description: "",
+    url: null, // Optional URL
+  },
 ];
 
 export const educationData = [

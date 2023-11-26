@@ -26,7 +26,8 @@ export const educationData = [
   {
     title: "CompTIA Security+ Certification",
     date: "2021",
-    description: "",
+    description:
+      "The CompTIA Security+ certification is a globally recognized credential validating foundational cybersecurity skills. Designed for IT professionals, it demonstrates proficiency in threat management, risk mitigation, cryptography, and network security, enhancing one's ability to secure networks and thwart cyber threats effectively.",
     url: "", // Optional URL
   },
 ];

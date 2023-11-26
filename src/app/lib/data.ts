@@ -1,56 +1,55 @@
 export const introData = {
-  name: "FIRSTNAME LASTNAME",
-  title: "Your Title Here",
+  name: "Sadeq Al Anssari",
+  title: "Federal Staff Consultant",
   description:
-    "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius iste rerum magni! Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit reprehenderit velit voluptatem?",
+    "Hello, my name is Sadeq! I'm a Federal Staff Consultant (FedRAMP/FISMA) at A-LIGN.",
   imageUrl: "/pfp.png", // Relative or online URL
 };
 
 export const projectsData = [
-  {
-    title: "Project Title",
-    description:
-      "About Paragraph 1 Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    url: null, // Optional URL
-  },
-  {
-    title: "Project Title",
-    description:
-      "About Paragraph 1 Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    url: null, // Optional URL
-  },
+  // {
+  //   title: "Project Title",
+  //   description:
+  //     "About Paragraph 1 Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  //   url: null, // Optional URL
+  // },
+  // {
+  //   title: "Project Title",
+  //   description:
+  //     "About Paragraph 1 Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  //   url: null, // Optional URL
+  // },
 ];
 
 export const educationData = [
   {
-    title: "PLACE / CERTIFICATE",
-    date: "YYYY-YYYY",
+    title:
+      "Bachelor of Business Administration in Cyber Security - The University of Texas at San Antonio",
+    date: "2018-2022",
     description:
-      "Project Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil modi eveniet fugit ut vitae! Sapiente natus dolor perspiciatis pariatur mollitia!",
+      "Relevant coursework: Operating Systems Security; Network Security; Intrusion Detection and Incident Response; Digital Forensic Analysis",
     url: "", // Optional URL
   },
   {
-    title: "PLACE / CERTIFICATE",
-    date: "YYYY-YYYY",
-    description:
-      "Project Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil modi eveniet fugit ut vitae! Sapiente natus dolor perspiciatis pariatur mollitia!",
-    url: "", // Optional URL
-  },
-  {
-    title: "PLACE / CERTIFICATE",
-    date: "YYYY-YYYY",
-    description:
-      "Project Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil modi eveniet fugit ut vitae! Sapiente natus dolor perspiciatis pariatur mollitia!",
+    title: "CompTIA Security+ Certification",
+    date: "2021",
+    description: "",
     url: "", // Optional URL
   },
 ];
 
 export const experienceData = [
   {
-    title: "INSTITUTE NAME",
-    city: "CITY, COUNTRY",
-    year: "YYYY-YYYY",
-    position: "Lorem Ipsum dolor Sit Amet",
+    title: "A-LIGN",
+    city: "Florida (Remote)",
+    year: "2022-Present",
+    position: "Federal Staff Consultant",
+  },
+  {
+    title: "A-LIGN",
+    city: "Florida (Remote)",
+    year: "2022",
+    position: "Federal IT Audit Intern",
   },
 ];
 
@@ -73,18 +72,28 @@ export const testimonialsData = [
 ];
 
 export const skillsData = [
-  "MySQL",
-  "Data Analysis",
+  "Tenable Nessus",
+  "Tenable SecurityCenter",
+  "Burpsuite",
+  "Qualys",
+  "Azure Defender",
+  "AWS Inspector",
+  "Wireshark",
+  "VMware Workstation",
+  "VirtualBox",
+  "Kali Linux",
+  "Metasploit",
+  "Nmap",
+  "John the Ripper",
+  "Autopsy",
+  "Quick Stego",
+  "FileZilla ",
+  "HXD",
+  "Java",
   "Python",
-  "Javascript",
-  "HTML",
-  "Machine Learning",
-  "Content Editing",
-  "Writing",
-  "Sales",
 ];
 
-export const emailAddress = "example@gmail.com";
+export const emailAddress = "sadeqanssari@gmail.com";
 
 export const contactLinks = [
   {
@@ -97,7 +106,7 @@ export const contactLinks = [
     // LinkedIn
     iconPath: "/linkedin.svg",
     // Add the URLS Below and uncomment!
-    url: null,
+    url: "https://www.linkedin.com/in/sadeqalanssari/",
   },
   {
     // Github

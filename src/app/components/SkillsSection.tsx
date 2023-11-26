@@ -3,8 +3,8 @@ import { skillsData } from "../lib/data";
 
 const SkillsSection = () => {
   return (
-    <section className="section__styles py-[72px] flex flex-col gap-6">
-      <div className="max-w-container">
+    <section className="section__styles py-[72px]">
+      <div className="max-w-container flex flex-col gap-6">
         {/* Title and Subheader */}
         <div className="flex flex-col gap-1 text-start">
           <h1 className="font-medium text-gray-700 text-2xl title-text">
